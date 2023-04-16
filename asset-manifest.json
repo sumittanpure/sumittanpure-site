@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/sumittanpure-site/static/css/main.5af18a64.css",
+    "main.js": "/sumittanpure-site/static/js/main.d1d39b68.js",
+    "static/css/769.70f3b610.chunk.css": "/sumittanpure-site/static/css/769.70f3b610.chunk.css",
+    "static/js/769.d9d5ee12.chunk.js": "/sumittanpure-site/static/js/769.d9d5ee12.chunk.js",
+    "static/js/787.e9c4ec9e.chunk.js": "/sumittanpure-site/static/js/787.e9c4ec9e.chunk.js",
+    "static/media/Montserrat-Regular.ttf": "/sumittanpure-site/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/Agustina.woff": "/sumittanpure-site/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/bs2.png": "/sumittanpure-site/static/media/bs2.be0c099341f66e53a7e3.png",
+    "static/media/contactMailDark.svg": "/sumittanpure-site/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/developerActivity.svg": "/sumittanpure-site/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/skill.svg": "/sumittanpure-site/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "static/media/saayaHealthLogo.webp": "/sumittanpure-site/static/media/saayaHealthLogo.60b27d1f184fadfce43a.webp",
+    "static/media/nextuLogo.webp": "/sumittanpure-site/static/media/nextuLogo.e033dbfa4c58c0a906aa.webp",
+    "index.html": "/sumittanpure-site/index.html",
+    "main.5af18a64.css.map": "/sumittanpure-site/static/css/main.5af18a64.css.map",
+    "main.d1d39b68.js.map": "/sumittanpure-site/static/js/main.d1d39b68.js.map",
+    "769.70f3b610.chunk.css.map": "/sumittanpure-site/static/css/769.70f3b610.chunk.css.map",
+    "769.d9d5ee12.chunk.js.map": "/sumittanpure-site/static/js/769.d9d5ee12.chunk.js.map",
+    "787.e9c4ec9e.chunk.js.map": "/sumittanpure-site/static/js/787.e9c4ec9e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5af18a64.css",
+    "static/js/main.d1d39b68.js"
+  ]
+}
